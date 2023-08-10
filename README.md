@@ -10,6 +10,12 @@ Step-by-step guideline:
   2- Configure EKS Worker Nodes
   
   3- Deploy EKS Resources
+
+      module "eks" {
+      source = "terraform-aws-modules/eks/aws"
+      # ...
+    }
+
   
   4- Update Application to Connect to MSK
   
