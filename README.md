@@ -18,5 +18,5 @@ Step-by-step guideline:
   - Apply Deployment Manifest.
     $ kubectl apply -f my-app-deployment.yaml
     
-  _ Expose Your Application (my-app-service.yaml)
+  - Expose Your Application (my-app-service.yaml)
     
