@@ -4,6 +4,7 @@ To integrate Amazon Managed Streaming for Apache Kafka (MSK) into an Amazon EKS 
 
 Step-by-step guideline:
 
+
   1- Create MSK Cluster
   
   2- Configure EKS Worker Nodes
